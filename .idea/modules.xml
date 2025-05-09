@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA PRATIQUE.iml" filepath="$PROJECT_DIR$/JAVA PRATIQUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SysTraitementFichier/SysTraitementFichier.iml" filepath="$PROJECT_DIR$/SysTraitementFichier/SysTraitementFichier.iml" />
+    </modules>
+  </component>
+</project>
